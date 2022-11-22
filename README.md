@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj Kumar Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+![logo](https://github.com/rajkumarsahu89/rajkumarsahu89/blob/main/cover.jpg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumarsahu89&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumarsahu89" /> </p>
 
 - 🔭 I’m currently looking for a Job **as MERN Stack Developer**
