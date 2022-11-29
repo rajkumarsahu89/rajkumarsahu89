@@ -20,9 +20,9 @@
 
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
-- indeed.com Is India's Largest Online Job Search Site Tech Stack:- HTML, CSS,JavaScript [shine.com CLONE](https://https://rococo-syrniki-1a5dcd.netlify.app/)
+- shine.com Is India's Largest Online Job Search Site Tech Stack:- HTML, CSS,JavaScript [shine.com CLONE](https://https://rococo-syrniki-1a5dcd.netlify.app/)
 
-- revv.com Is India's Largest Online Car rental Site. Tech Stack:- JavaScript, REACT, CHAKRA UI [tripvillas.com CLONE](https://https://vocal-pavlova-b43e27.netlify.app/)
+- tripvills.com Is India's Largest Online Car rental Site. Tech Stack:- JavaScript, REACT, CHAKRA UI [tripvillas.com CLONE](https://https://vocal-pavlova-b43e27.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://rajkumarsahu89.github.io/](https://rajkumarsahu89.github.io/)
 
