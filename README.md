@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rajkumarsahu89.github.io/](https://rajkumarsahu89.github.io/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Typescrip, MUI, Chakra UI**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Typescript, MUI, Chakra UI**
 
 - 📫 How to reach me **sahukumarraj89@gmail.com**
 
