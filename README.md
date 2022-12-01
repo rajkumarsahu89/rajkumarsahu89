@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h3 align="center">I'm a quick learner, enthusiastic person, a team player and
-						passionate about coding. I have 5000+ hours of hands on
+						passionate about coding. I have 2500+ hours of hands on
 						coding. I worked on various projects some of them you can check
 						in the projects section.</h3>
 
