@@ -38,15 +38,11 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<p align="center">
-  <a href="https://github.com/rajkumarsahu89">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rajkumarsahu89&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumarsahu89&theme=radical&hide_border=false" />
-  </a>
-</p>
-  
-  <img src="https://activity-graph.herokuapp.com/graph?username=rajkumarsahu89&theme=radical&hide_border=false" />
-  <br/>  
+<p align="center"><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumarsahu89&show_icons=true&title_color=ffc800&text_color=ffffff&bg_color=010000&locale=en&layout=compact" alt="rajkumarsahu89" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajkumarsahu89&show_icons=true&title_color=37c0fb&text_color=ffffff&bg_color=010000&locale=en" alt="rajkumarsahu89" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumarsahu89&theme=highcontrast" alt="rajkumarsahu89" /></p>
 
 ## ✍️ Random Dev Quote
   
