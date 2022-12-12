@@ -20,7 +20,7 @@
 
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
-- Shine.com Is Online Job & Recruitment Portal Search Site. Tech Stack:- HTML, CSS,JavaScript [shine.com CLONE](https://rococo-syrniki-1a5dcd.netlify.app/)
+- Revv Self Drive Car Rental in India is a reliable name in the industry as they aim to deliver the best experience to their customers. Tech Stack:- HTML, CSS,JavaScript [Revv.com CLONE](https://radiant-pasca-c8b0ba.netlify.app)
 
 - Tripvillas.com Is One Of Asia's Largest Holiday Home Rental Companies. Tech Stack:- JavaScript, REACT, CHAKRA UI [tripvillas.com CLONE](https://vocal-pavlova-b43e27.netlify.app/)
 
